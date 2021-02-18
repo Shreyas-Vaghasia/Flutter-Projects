@@ -1,6 +1,6 @@
-# news_app
+# Reastaurant name picker app
 
-A new Flutter project.
+This is basic app which will suggest name of a restaurant when button is clicked
 
 ## Getting Started
 
